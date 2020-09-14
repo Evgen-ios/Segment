@@ -3,7 +3,7 @@
 //  Segment
 //
 //  Created by Goncharov Evgenii on 14.09.2020.
-//  Copyright © 2020 Gancha. All rights reserved.
+//  Copyright © 2020 Goncharov Evgenii. All rights reserved.
 //
 
 import SwiftUI
