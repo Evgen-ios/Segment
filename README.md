@@ -1,4 +1,4 @@
 # Segment
 
 
-[![Demo CountPages alpha](https://j.gifs.com/wV1xMr.gif)](https://youtu.be/780NWxCdSdA)
+[![Demo CountPages alpha](https://github.com/Evgen-ios/Segment/blob/master/1511972.gif?raw=true)]
